@@ -16,3 +16,6 @@ layout: page
 changed from local git.
 
 how do we fill this from javascrpit object.
+
+and if we make live changges can we see it
+

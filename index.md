@@ -5,7 +5,7 @@ sidebar:
     - title: Welcome
       url: '#intro'
       is_primary: true
-    - title: Who we are
+    - title: About
       url: '#one'
       is_primary: false
     - title: What we do
@@ -15,10 +15,9 @@ sidebar:
       url: '#three'
       is_primary: false
 sections:
-  - title: Hyperspace
+  - title: Michael Oak Waldorf School
     subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+      Michael Oak Waldorf School seeks to awaken the whole child towards creative responsibility, developing confident, balanced individuals empowered to work with the challenges of today and tomorrow.
     section_id: intro
     background_style: style1
     actions:
