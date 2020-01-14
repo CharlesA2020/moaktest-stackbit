@@ -1,5 +1,6 @@
 title: Michael Oak Waldorf School
 baseurl: /
+livereload: true
 permalink: '/:title/'
 collections:
   posts:

@@ -5,14 +5,20 @@ sidebar:
     - title: Welcome
       url: '#intro'
       is_primary: true
-    - title: About
+    - title: Highlights 
       url: '#one'
       is_primary: false
     - title: What we do
       url: '#two'
       is_primary: false
-    - title: Get in touch
+    - title: FAQ
       url: '#three'
+      is_primary: false
+    - title: Sport
+      url: '#four'
+      is_primary: false
+    - title: Get in touch
+      url: '#five'
       is_primary: false
 sections:
   - title: Michael Oak Waldorf School
@@ -21,8 +27,8 @@ sections:
     section_id: intro
     background_style: style1
     actions:
-      - label: Learn more
-        url: '#one'
+      - label: Learn more about our school
+        url: 'about'
         is_scrolly: true
         is_primary: false
     component: intro.html
@@ -89,31 +95,19 @@ sections:
     contact_list:
       - title: Address
         text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
+          4 Marlow Road
+          Kenilworth
+          Cape Town
       - title: Email
-        text: user@Hyperspace.tld
+        text: datasouth@protonmail.com
         url: '#'
       - title: Phone
-        text: (000) 000-0000
+        text: (+27) 21 797 9728
     social:
       title: Social
       social_icons:
-        - title: Twitter
-          icon: fa-twitter
-          url: '#'
-        - title: Facebook
-          icon: fa-facebook
-          url: '#'
         - title: GitHub
           icon: fa-github
-          url: '#'
-        - title: Instagram
-          icon: fa-instagram
-          url: '#'
-        - title: LinkedIn
-          icon: fa-linkedin
           url: '#'
     component: contact.html
     type: contact
