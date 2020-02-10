@@ -14,7 +14,7 @@ sidebar:
     - title: FAQ
       url: '#three'
       is_primary: false
-    - title: Sport
+    - title: Sport!
       url: '#four'
       is_primary: false
     - title: Get in touch
